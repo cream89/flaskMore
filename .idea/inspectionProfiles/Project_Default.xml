@@ -1,0 +1,83 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="70">
+            <item index="0" class="java.lang.String" itemvalue="psycopg2-binary" />
+            <item index="1" class="java.lang.String" itemvalue="requests" />
+            <item index="2" class="java.lang.String" itemvalue="numpy" />
+            <item index="3" class="java.lang.String" itemvalue="redis" />
+            <item index="4" class="java.lang.String" itemvalue="celery" />
+            <item index="5" class="java.lang.String" itemvalue="djangorestframework-simplejwt" />
+            <item index="6" class="java.lang.String" itemvalue="pymysql" />
+            <item index="7" class="java.lang.String" itemvalue="jsonpath" />
+            <item index="8" class="java.lang.String" itemvalue="uwsgi" />
+            <item index="9" class="java.lang.String" itemvalue="djangorestframework" />
+            <item index="10" class="java.lang.String" itemvalue="xlrd" />
+            <item index="11" class="java.lang.String" itemvalue="django-celery-beat" />
+            <item index="12" class="java.lang.String" itemvalue="django-celery-results" />
+            <item index="13" class="java.lang.String" itemvalue="xlwt" />
+            <item index="14" class="java.lang.String" itemvalue="xlsxwriter" />
+            <item index="15" class="java.lang.String" itemvalue="requests_toolbelt" />
+            <item index="16" class="java.lang.String" itemvalue="pandas" />
+            <item index="17" class="java.lang.String" itemvalue="paramiko" />
+            <item index="18" class="java.lang.String" itemvalue="django" />
+            <item index="19" class="java.lang.String" itemvalue="coreapi" />
+            <item index="20" class="java.lang.String" itemvalue="sshtunnel" />
+            <item index="21" class="java.lang.String" itemvalue="django-filter" />
+            <item index="22" class="java.lang.String" itemvalue="retrying" />
+            <item index="23" class="java.lang.String" itemvalue="DBUtils" />
+            <item index="24" class="java.lang.String" itemvalue="openpyxl" />
+            <item index="25" class="java.lang.String" itemvalue="pyyaml" />
+            <item index="26" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="27" class="java.lang.String" itemvalue="lxml" />
+            <item index="28" class="java.lang.String" itemvalue="pyserial" />
+            <item index="29" class="java.lang.String" itemvalue="xmltodict" />
+            <item index="30" class="java.lang.String" itemvalue="convertdate" />
+            <item index="31" class="java.lang.String" itemvalue="pyqt5" />
+            <item index="32" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="33" class="java.lang.String" itemvalue="kafka" />
+            <item index="34" class="java.lang.String" itemvalue="rarfile" />
+            <item index="35" class="java.lang.String" itemvalue="PTS" />
+            <item index="36" class="java.lang.String" itemvalue="cx_oracle" />
+            <item index="37" class="java.lang.String" itemvalue="altgraph" />
+            <item index="38" class="java.lang.String" itemvalue="pyinstaller" />
+            <item index="39" class="java.lang.String" itemvalue="wincertstore" />
+            <item index="40" class="java.lang.String" itemvalue="pytest-rerunfailures" />
+            <item index="41" class="java.lang.String" itemvalue="brotlipy" />
+            <item index="42" class="java.lang.String" itemvalue="cryptography" />
+            <item index="43" class="java.lang.String" itemvalue="menuinst" />
+            <item index="44" class="java.lang.String" itemvalue="pycosat" />
+            <item index="45" class="java.lang.String" itemvalue="conda-package-handling" />
+            <item index="46" class="java.lang.String" itemvalue="pefile" />
+            <item index="47" class="java.lang.String" itemvalue="pyinstaller-hooks-contrib" />
+            <item index="48" class="java.lang.String" itemvalue="win-inet-pton" />
+            <item index="49" class="java.lang.String" itemvalue="PySocks" />
+            <item index="50" class="java.lang.String" itemvalue="pyOpenSSL" />
+            <item index="51" class="java.lang.String" itemvalue="future" />
+            <item index="52" class="java.lang.String" itemvalue="pywin32-ctypes" />
+            <item index="53" class="java.lang.String" itemvalue="conda" />
+            <item index="54" class="java.lang.String" itemvalue="ruamel-yaml-conda" />
+            <item index="55" class="java.lang.String" itemvalue="pytest-rerunfailure" />
+            <item index="56" class="java.lang.String" itemvalue="gitlab" />
+            <item index="57" class="java.lang.String" itemvalue="pymongo" />
+            <item index="58" class="java.lang.String" itemvalue="greenlet" />
+            <item index="59" class="java.lang.String" itemvalue="flasgger" />
+            <item index="60" class="java.lang.String" itemvalue="gevent" />
+            <item index="61" class="java.lang.String" itemvalue="pika" />
+            <item index="62" class="java.lang.String" itemvalue="pathlib2" />
+            <item index="63" class="java.lang.String" itemvalue="gunicorn" />
+            <item index="64" class="java.lang.String" itemvalue="Flask-RESTful" />
+            <item index="65" class="java.lang.String" itemvalue="Flask" />
+            <item index="66" class="java.lang.String" itemvalue="ansible" />
+            <item index="67" class="java.lang.String" itemvalue="Flask_RESTful" />
+            <item index="68" class="java.lang.String" itemvalue="importlib-metadata" />
+            <item index="69" class="java.lang.String" itemvalue="sqlalchemy" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
