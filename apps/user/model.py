@@ -11,5 +11,6 @@ class  User(db.Model):
 
     ___tablename__='user'
 
+    id = db.Column(db.Integer, primary_key=True, autoincrement=True)
     order_id=db.Column(db.Integer,nullable=False)
-    order_op=db.Column(db.String,nullable=False)
+    order_op=db.Column(db.String(30),nullable=False)

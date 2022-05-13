@@ -11,16 +11,19 @@ class  Base:
 
 class  Dev(Base):
 
-    ENV='production'
-    SQLALCHEMY_TRACK_MODIFICATIONS=True
-    FLASK_DEBUG = False
-    #数据库信息
-    db_host='11'
-    db_port='22'
-    db_name='33'
-    db_username='44'
-    db_password=''
-    SQLALCHEMY_DATABASE_URI = f'mysql+pymysql://{db_username}:{db_password}@{db_host}:{db_port}/{db_name}'
+    ENV='development'
+    FLASK_DEBUG=True
+    db_host = 'localhost'
+    db_port = 3306
+    db_name = 'qrcode'
+    db_username = 'root'
+    db_password = 'root'
+    SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://%s:%s@%s:%s/%s' % (db_username, db_password, db_host, db_port, db_name)
+    # redis信息
+    redis_host = ''
+    redis_port = ''
+    redis_name = ''
+    redis_password = ''
 
 
 setting=Dev

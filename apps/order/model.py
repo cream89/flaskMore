@@ -10,6 +10,6 @@ from exts.db import db
 class  Order(db.Model):
 
     ___tablename__='order'
-
+    id=db.Column(db.Integer,primary_key=True,autoincrement=True)
     username=db.Column(db.Integer,nullable=False)
-    password=db.Column(db.String,nullable=False)
+    password=db.Column(db.String(20),nullable=False)
